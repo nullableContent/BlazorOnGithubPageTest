@@ -34,6 +34,6 @@ jobs:
     - name: GitHub Pages action
       uses: peaceiris/actions-gh-pages@v3.7.3
       with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
+        GH_PAT: ${{ secrets.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 }}
         publish_dir: ./${{ env.PUBLISH_DIR }}
 

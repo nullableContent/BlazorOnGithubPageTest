@@ -1,0 +1,1 @@
+C:\Users\VOID\Desktop\Programming\cs\BlazorOnGithubPageTest\bin\Release\net6.0\publish\web.config
